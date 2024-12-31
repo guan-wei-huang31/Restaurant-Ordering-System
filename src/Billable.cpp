@@ -1,5 +1,4 @@
 /* Citation and Sources...
-Final Project Milestone 3
 Module: ..
 Filename: Billable.cpp / Billable.h
 Version 1.0
@@ -7,7 +6,7 @@ Author	Guan-Wei Huang
 Revision History
 -----------------------------------------------------------
 Date        Reason
-2024/11/27  MS3 release
+2024/11/27  release 1.0
 -----------------------------------------------------------
 I have done all the coding by myself and only copied the code
 that my professor provided to complete my workshops and assignments.

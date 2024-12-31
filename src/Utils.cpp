@@ -1,18 +1,3 @@
-/***********************************************************************
-// OOP244 Project, Utils Module
-//
-// File	Utils.h
-// Version 0.6
-// Date 2024-11-13
-// started by Fardad
-// Description
-// utility function to be used in the project
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-// Fardad          11-20           makeBillFileName
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #include <iostream>
 using namespace std;
 #include <string>

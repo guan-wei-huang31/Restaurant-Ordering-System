@@ -1,5 +1,4 @@
 /* Citation and Sources...
-Final Project Milestone 3
 Module: ..
 Filename: Menu.cpp / Menu.h
 Version 3.0
@@ -7,9 +6,9 @@ Author	Guan-Wei Huang
 Revision History
 -----------------------------------------------------------
 Date        Reason
-2024/11/06  Original release MS1
-2024/11/14  MS2 release
-2024/11/27  MS3 release
+2024/11/06  Original release 1.0
+2024/11/14  release 2.0
+2024/11/27  release 3.0
 -----------------------------------------------------------
 I have done all the coding by myself and only copied the code
 that my professor provided to complete my workshops and assignments.

@@ -1,18 +1,3 @@
-/***********************************************************************
-// OOP244 Project, Utils Module
-//
-// File	Utils.h
-// Version 0.6
-// Date 2024-11-13
-// started by Fardad
-// Description
-// utility function to be used in the project
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-// Fardad          11-20           makeBillFileName
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SENECA_UTILS_H
 #define SENECA_UTILS_H
 #include <iostream>

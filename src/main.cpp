@@ -1,5 +1,4 @@
 /* Citation and Sources...
-Final Project Milestone 5
 Module: ..
 Filename: main.cpp
 Version 1.3
@@ -7,10 +6,10 @@ Author	Guan-Wei Huang
 Revision History
 -----------------------------------------------------------
 Date        Reason
-2024/12/03  Original release MS51
-2024/12/03  Update MS52, MS53
-2024/12/03  Update MS54
-2024/12/03  Update MS55
+2024/12/03  Original release 1.0
+2024/12/03  Update 1.1
+2024/12/03  Update 1.2
+2024/12/03  Update 1.3
 -----------------------------------------------------------
 I have done all the coding by myself and only copied the code
 that my professor provided to complete my workshops and assignments.
