@@ -19,10 +19,15 @@ ordering-system/
 ├── src/                              
 │   ├── main.cpp                       // Entry point for the application
 │   ├── Menu.cpp                       // Menu management implementation
+│   ├── Ordering.h                     // Order processing and billing header file
 │   ├── Ordering.cpp                   // Order processing and billing
+│   ├── Drink.h                        // Drink item functionality header file
 │   ├── Drink.cpp                      // Drink item functionality
+│   ├── Food.h                         // Food item functionality header file
 │   ├── Food.cpp                       // Food item functionality
+│   ├── Billable.h                     // Common billable item functionality header file
 │   ├── Billable.cpp                   // Common billable item functionality
+│   ├── Utils.h                        // Utility functions header file
 │   ├── Utils.cpp                      // Utility functions
 │   └── constants.h                    // Project constants
 ├── data/                             
