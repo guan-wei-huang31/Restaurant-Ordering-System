@@ -79,7 +79,7 @@ Total+Tax:                  22.58
 ## **⚙️Usage**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repository/ordering-system.git
+   git clone https://github.com/guan-wei-huang31/Restaurant-Ordering-System.git
    cd ordering-system
    ```
 
