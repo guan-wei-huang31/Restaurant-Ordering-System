@@ -41,7 +41,7 @@ void appDemo() {
     Menu confirmMenu("You have bills that are not saved, are you sue you want to exit?", "No");
     confirmMenu << "Yes";
 
-    Ordering userOreder("drinks.csv", "foods.csv");
+    Ordering userOreder("../data/drinks.csv", "../data/foods.csv");
     //Ordering userOreder("drinks.csv", "badfoods1.csv");
 
     if(!userOreder){
